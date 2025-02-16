@@ -38,7 +38,8 @@
 <p>Cada vez que realices una modificación, guarda los cambios y actualiza el navegador para verlos reflejados. Si utilizas VS Code, usá la extensión Live Server para ver los cambios hechos.</p>
 
 <h2>📝Autor</h2>
-Agustina Umeres
+![Agustina Umeres](https://github.com/AgustinaUmeres30.png)
+
 
 
 
