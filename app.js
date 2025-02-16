@@ -58,7 +58,7 @@ function sortearAmigo() {
  let indiceAleatorio = Math.floor(Math.random()*amigosLista.length); 
  let nombreAleatorio = amigosLista[indiceAleatorio]; 
  let nombreElegido = document.getElementById('resultado');
- nombreElegido.innerHTML = `El amigo sorteado es: ${nombreAleatorio} :) `; 
+ nombreElegido.innerHTML = `El nombre seleccionado es: "${nombreAleatorio}" 🤫`; 
 
  document.getElementById('reset').removeAttribute('disabled');
 
