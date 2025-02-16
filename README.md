@@ -17,14 +17,22 @@
 <p>4. El resultado se mostrará en pantalla.</p>
 <p>5. Usa el botón "Reiniciar" para empezar un nuevo sorteo.</p>
 
+<h2> 📷Gifs</h2>
+<p>Así de facil puedes añadir a tus amigos!</p>
+
+![aadiramigos-ezgif com-resize](https://github.com/user-attachments/assets/2bd4c356-c5f3-48d2-9c1b-784ddbbf70a6)
+
+
+<p>Sortea y descubre tu amigo/a secreto/a! </p>
+
+![sortearyreiniciar-ezgif com-resize](https://github.com/user-attachments/assets/bdac71ef-c6b0-412b-b82d-5602f041b4c7)
+
+
 <h2>💡 Tecnologías utilizadas</h2>
 <p>⚙️ HTML</p>
 <p>⚙️ CSS</p>
 <p>⚙️ JavaScript</p>
 <p>⚙️ Git & GitHub</p>
-
-<h2> 📷 Capturas de pantalla</h2>
-
 
 <h2>📌 Acceso y modificaciones al proyecto</h2>
 <h3> 1. Clona el respositorio</h3>
@@ -44,6 +52,11 @@
 <img src="https://avatars.githubusercontent.com/AgustinaUmeres30" width="100"> 
 <strong>JavaScript desarrollado por <a href="https://github.com/AgustinaUmeres30">Agustina Umeres🌟</a></strong>
 </p>
+
+<h2>✏️Créditos</h2>
+<p>El HTML y el CSS de este proyecto fueron creados por [Alura Latam](https://www.aluracursos.com/) como parte de su curso.
+</p>
+
 
 
 
