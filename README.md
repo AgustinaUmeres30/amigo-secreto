@@ -42,7 +42,7 @@
 
 <h2>📝Autor</h2>
 <img src="https://avatars.githubusercontent.com/AgustinaUmeres30" width="100"> 
-<strong>Desarrollado por <a href="https://github.com/AgustinaUmeres30">Agustina Umeres🌟</a></strong>
+<strong>JavaScript desarrollado por <a href="https://github.com/AgustinaUmeres30">Agustina Umeres🌟</a></strong>
 </p>
 
 
