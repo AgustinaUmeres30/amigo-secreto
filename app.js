@@ -50,6 +50,11 @@ function sortearAmigo() {
     return;
   }
 
+  if (amigosLista.length === 1) {
+    alert('Escribir 2 nombres al menos para sortear')
+    return; 
+  }
+  
  let indiceAleatorio = Math.floor(Math.random()*amigosLista.length); 
  let nombreAleatorio = amigosLista[indiceAleatorio]; 
  let nombreElegido = document.getElementById('resultado');
