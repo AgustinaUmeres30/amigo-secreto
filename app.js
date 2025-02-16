@@ -54,7 +54,7 @@ function sortearAmigo() {
     alert('Escribir 2 nombres al menos para sortear')
     return; 
   }
-  
+
  let indiceAleatorio = Math.floor(Math.random()*amigosLista.length); 
  let nombreAleatorio = amigosLista[indiceAleatorio]; 
  let nombreElegido = document.getElementById('resultado');
@@ -63,6 +63,8 @@ function sortearAmigo() {
  document.getElementById('reset').removeAttribute('disabled');
 
  document.getElementById('amigo').setAttribute('disabled', 'true');
+
+ document.getElementById('intentos').setAttribute('disabled', 'true');
 
  document.querySelector('#ingresoDeNombre').setAttribute('disabled', 'true');
 }
