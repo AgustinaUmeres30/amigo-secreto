@@ -23,6 +23,9 @@
 <p>⚙️ JavaScript</p>
 <p>⚙️ Git & GitHub</p>
 
+<h2> 📷 Capturas de pantalla</h2>
+
+
 <h2>📌 Acceso y modificaciones al proyecto</h2>
 <h3> 1. Clona el respositorio</h3>
 <p>git clone https://github.com/AgustinaUmeres30/amigo-secreto.git</p>
