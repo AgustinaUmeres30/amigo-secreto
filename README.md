@@ -25,7 +25,7 @@
 
 <p>Sortea y descubre tu amigo/a secreto/a! </p>
 
-![sortearyreiniciar-ezgif com-resize](https://github.com/user-attachments/assets/bdac71ef-c6b0-412b-b82d-5602f041b4c7)
+![sortearyreiniciar-ezgif com-resize (1)](https://github.com/user-attachments/assets/ef722f38-412f-4dd3-82a9-3c09ea3e3f4c)
 
 
 <h2>💡 Tecnologías utilizadas</h2>
