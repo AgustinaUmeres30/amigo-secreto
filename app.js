@@ -59,8 +59,12 @@ function sortearAmigo() {
  let nombreAleatorio = amigosLista[indiceAleatorio]; 
  let nombreElegido = document.getElementById('resultado');
  nombreElegido.innerHTML = `El nombre seleccionado es: "${nombreAleatorio}" 🤫`; 
+ 
+ buttons();
+}
 
- document.getElementById('reset').removeAttribute('disabled');
+function buttons() {
+  document.getElementById('reset').removeAttribute('disabled');
 
  document.getElementById('amigo').setAttribute('disabled', 'true');
 
@@ -74,8 +78,9 @@ function reiniciarJuego() {
   actualizarLista(); 
   limpiarCaja();
   document.getElementById('resultado').innerHTML = ''; //limpia el resultado
-  document.getElementById('amigo').removeAttribute('disabled');
+  document.getElementById('amigo').removeAttribute('disabled'); 
   document.querySelector('#ingresoDeNombre').removeAttribute('disabled');
+  document.getElementById('intentos').removeAttribute('disabled');
   document.getElementById('reset').setAttribute('disabled','true');
 }
 
